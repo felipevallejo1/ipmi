@@ -1,3 +1,5 @@
+// Legajo 88164/7 Nombre Felipe Vallejo link video: https://www.youtube.com/watch?v=WM1iVLJgVeA
+
 PImage obra;
 float mapeado;
 int ultimaPosicion;
